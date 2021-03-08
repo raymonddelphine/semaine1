@@ -1,0 +1,39 @@
+body{
+    background-image: url("hobbies.jpg");
+}
+
+h1{
+    color: rgb(92, 143, 163);
+    background-color: rgb(145, 197, 231);
+    font-size: 100px;
+    border-style: double;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: purple 2px 2px 5px;
+}
+
+img{
+    width: 200px;
+
+}
+
+h2{
+    color: rgb(238, 231, 238);
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+h3{
+    color: rgb(216, 13, 91);
+    font-family: cursive;
+}
+
+p{S
+    font-family: cursive;
+}
+
+li{
+    font-size: 25px;
+    font-family: cursive;
+    text-decoration: underline;
+}
